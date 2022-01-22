@@ -6,4 +6,4 @@ If you win, you can you get a prize🏆 but if you lose the other person can sla
 You wanted to slap the person but he stopped you and gave you a prize💰instead as per the agreement🤝🏼. He also extended the offer that if you want to win😊more you can contact us handing out a card🟨as shown below.
 
 ![Challenge card1](https://github.com/shreyan55/assets/blob/main/1.png)
-![Challenge card2](https://github.com/shreyan55/assets/blob/main/2.png)
+[![Registration](https://github.com/shreyan55/assets/blob/main/2.png)](http://commonmark.org "Redirect to homepage")
