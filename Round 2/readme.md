@@ -15,4 +15,4 @@ Star<br/>
 
 Comment💭 the chosen shape in the issues sections.
 
-You are provided with a quiz😕. Figure out what it is. Time⌚is running out!!
+
