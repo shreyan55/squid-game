@@ -8,7 +8,7 @@ Once it turns red you can't continue and will be eliminated.<br/>
 <br/>
 <br/>
 <br/>
-<b>The light turns red in 15 minutes.</b>
+## The light turns red in ***15 minutes***.
 <br/>
 <br/>
 <br/>
