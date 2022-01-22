@@ -9,6 +9,13 @@ If you win, you can you get a prize🏆 but if you lose the other person can sla
 You have lost 😥the first few games. Now with a face red😡with slap marks, mind infuriated🤯 with vengeance determined to win you try again and win.<br/>
 You wanted to slap the person but he stopped you and gave you a prize💰instead as per the agreement🤝🏼.<br/>
 He also extended the offer that <b> if you want to win😊more you can contact us handing out a card🟨as shown below.</b><br/>
+<br/>
+<br/>
+<br/>
+
 
 ![Challenge card1](https://github.com/shreyan55/assets/blob/main/1.png)
+<br/>
+<br/>
+
 [![Registration](https://github.com/shreyan55/assets/blob/main/2.png)](https://forms.gle/CpaDHYTSViwzVuxc9)
