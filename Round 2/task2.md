@@ -1,5 +1,5 @@
 Based on the commented shape,go to the directed click on the shape below:-  
-(Note:-Selecting the shape other than what you have commented will get you eliminated!!)
+(Note:-Selecting the shape other than what you have commented will get you eliminated!!)  
 Umbrella <br/>
 [![umbrella](https://github.com/shreyan55/assets/blob/main/Umbrella-removebg-preview.png)](http://commonmark.org "Redirect to homepage")<br/>
 Triangle<br/>
