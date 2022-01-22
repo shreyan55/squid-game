@@ -7,4 +7,5 @@ All you need to do in this round is:-<br/> <br/>
   
   
   
+## Time Limit:-30 Minutes  
 ## The first one to complete wins the prize!!!
