@@ -12,6 +12,7 @@ Circle<br/>
 Star<br/>
 [![star](https://github.com/shreyan55/assets/blob/main/star-removebg-preview.png)](https://github.com/UttamBindal/Questionsdb/blob/main/circle "Questions")<br/>
 ## You are provided with a quiz. Figure out what it is. Time is running out!!
+## Time Limit :-40 minutes
 ## Comment out your answer under the issues section in this repository in the format :-
 ## ans1-ans2-ans3-ans4
 
