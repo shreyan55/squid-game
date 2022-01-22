@@ -14,7 +14,7 @@ You have lost the first few games.
 Now with a face red with slap marks, mind infuriate  with vengeance determined to win you try again and win.<br/><br/>
 You wanted to slap the person but he stopped you and gave you a prize💰instead as per the agreement🤝🏼.<br/>
 He also extended the offer that:-<br/><br/><br/>
-<b> If you want to join us you can click on the card which is shown below.</b><br/>
+<b> If you want to join us you can click on join written on the card which is shown below.</b><br/>
 <br/>
 <br/>
 <br/>
