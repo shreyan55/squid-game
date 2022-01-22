@@ -3,12 +3,15 @@
 <br/>
 <br/>
 It’s a cold☃️winter evening in Bangalore.<br/>
-You are waiting for the 298M which should be here at any minute🕐.<br/>
-A guy👨‍💼 just walks in and asks you to play a game🟥of Ddakji for a prize🎁.<br/>
-If you win, you can you get a prize🏆 but if you lose the other person can slap👋you. <br/>
-You have lost 😥the first few games. Now with a face red😡with slap marks, mind infuriated🤯 with vengeance determined to win you try again and win.<br/>
+<br/>
+<br/>
+You are waiting for the<b> 298M </b>which should be here at any minute🕐.<br/>
+A guy👨‍💼 just walks in and asks you to play a game🟥of<b> Ddakji </b> for a prize🎁.<br/>
+If you win, you can you get a<b> prize🏆</b> but if you lose the other person can slap👋you. <br/>
+You have lost 😥the first few games. Now with a face red😡with slap marks, mind infuriated🤯 with vengeance determined to win you try again and win.<br/><br/>
 You wanted to slap the person but he stopped you and gave you a prize💰instead as per the agreement🤝🏼.<br/>
-He also extended the offer that <b> if you want to win😊more you can contact us handing out a card🟨as shown below.</b><br/>
+He also extended the offer that:-<br/>
+<b> if you want to win😊more you can contact us handing out a card🟨as shown below.</b><br/>
 <br/>
 <br/>
 <br/>
