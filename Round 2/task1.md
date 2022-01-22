@@ -8,5 +8,6 @@ Triangle
 Circle  
 Star  
   
+## Time Limit:-5 Minutes  
   
 ## Comment the chosen shape under the issues section of this repository.  
