@@ -15,4 +15,5 @@ Star<br/>
 ## Time Limit :-40 minutes
 ## Comment out your answer under the issues section in this repository in the format :-
 ## ans1-ans2-ans3-ans4
+## Do not give any extra spaces in the answer comment.
 
